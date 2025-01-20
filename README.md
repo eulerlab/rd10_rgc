@@ -8,7 +8,7 @@ The repository contains the code to reproduce the analyses and figures.
 ## Code
 
 The code can be found in the `code` folder; it's published under the MIT license. 
-Each jupyter notebook describes the analyses performed in the data and builds the figures depicted in the paper.
+Each jupyter notebook describes the analyses performed and builds the figures depicted in the paper.
 
 
 ## Data
