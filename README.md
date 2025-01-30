@@ -1,6 +1,6 @@
 # rd10_rgc
 
-This repository contains the analysis code and notebboks underlying the analyses published in [Dyszkant et al. (2025)](https://www.biorxiv.org/content/10.1101/2024.09.06.610955v1.abstract): *"Photoreceptor degeneration has heterogeneous effects on functional retinal ganglion cell types".*
+This repository contains the analysis code and notebooks underlying the analyses published in [Dyszkant et al. (2025)](https://www.biorxiv.org/content/10.1101/2024.09.06.610955v1.abstract): *"Photoreceptor degeneration has heterogeneous effects on functional retinal ganglion cell types".*
 
 # Repository structure
 The repository contains the code to reproduce the analyses and figures.
