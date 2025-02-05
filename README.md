@@ -13,7 +13,7 @@ Each jupyter notebook describes the analyses performed and builds the figures de
 
 ## Data
 
-The data can be found on the (add ref later)
+The data can be found on in the G-Node Open Data repository: [DOI: 10.12751/g-node.89z5px](https://doi.gin.g-node.org/10.12751/g-node.89z5px/)
 
 # Authors and acknowledgements
 Nadine Dyszkant<sup>1-3</sup>, Jonathan Oesterle<sup>1,2</sup>, Yongrong Qiu<sup>1,2,4,5</sup>, Merle Harrer<sup>1,2</sup>, Timm Schubert<sup>1,2</sup>, Dominic Gonschorek<sup>1,2,+</sup>, and Thomas Euler<sup>1-3,+</sup>
